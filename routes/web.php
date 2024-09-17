@@ -19,6 +19,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::view('/', 'welcome');
+Route::view('/about', 'about');
 Route::get('/login', LoginForm::class)->name('login');
 Route::get('/dashboard', Dashboard::class)->name('dashboard');
 Route::get('/order', OrderList::class)->name('order');

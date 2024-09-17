@@ -1,6 +1,14 @@
 # Aplikasi Laundry
 
-Ini adalah aplikasi berbasis Laravel untuk mengelola layanan laundry.
+Laundriku adalah aplikasi berbasis Laravel yang dirancang khusus untuk memudahkan pengelolaan layanan laundry. Dengan antarmuka yang intuitif dan fitur-fitur yang komprehensif, Laundriku membantu pemilik usaha laundry untuk mengoptimalkan operasional mereka, meningkatkan efisiensi, dan memberikan layanan terbaik kepada pelanggan. Aplikasi ini menggabungkan teknologi modern dengan kebutuhan spesifik industri laundry, menciptakan solusi yang powerful namun mudah digunakan.
+
+Beberapa fitur utama yang ditawarkan oleh Laundriku meliputi:
+- Manajemen pesanan yang efisien
+- Pelacakan status cucian secara real-time
+- Pengelolaan data pelanggan
+- Sistem harga yang fleksibel
+- Integrasi dengan WhatsApp untuk komunikasi yang lebih baik
+- Panel admin yang komprehensif untuk kontrol penuh atas operasional
 
 ## Spesifikasi Kebutuhan Software
 
