@@ -1,0 +1,9 @@
+{
+    "iron": "Setrika",
+    "wash": "Cuci",
+    "wash_and_iron": "Cuci & Setrika",
+    "pending": "Menunggu",
+    "processing": "Diproses",
+    "ready": "Siap",
+    "done": "Selesai"
+}

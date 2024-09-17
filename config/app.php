@@ -17,6 +17,8 @@ return [
     */
 
     'name' => env('APP_NAME', 'Laravel'),
+    'whatsapp_number' => env('WHATSAPP_NUMBER', '6281234567890'),
+    'map_embed_url' => env('MAP_EMBED_URL', 'https://maps.google.com/maps?width=100%&height=600&hl=en&q=monumen+nasional&ie=UTF8&t=&z=14&iwloc=B&output=embed'),
 
     /*
     |--------------------------------------------------------------------------
@@ -70,7 +72,7 @@ return [
     |
     */
 
-    'timezone' => 'UTC',
+    'timezone' => 'Asia/Jakarta',
 
     /*
     |--------------------------------------------------------------------------
@@ -83,7 +85,7 @@ return [
     |
     */
 
-    'locale' => 'en',
+    'locale' => 'id',
 
     /*
     |--------------------------------------------------------------------------
