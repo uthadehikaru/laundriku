@@ -21,9 +21,6 @@
                     <button type="submit" class="btn btn-primary">Login</button>
                 </div>
             </form>
-            <div class="text-center mt-4">
-                <a href="#" class="link link-hover">Forgot password?</a>
-            </div>
         </div>
     </div>
 </div>
